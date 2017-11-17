@@ -1,8 +1,6 @@
 # My-Collection
 Collection  Many Websites
 
-
-ADOBE账号：18501331814@163.com     密码：Chenjiali1204
 手绘教程http://www.360doc.com/content/14/0817/16/18081323_402608197.shtml
 花瓣 站酷 UI帮 UI中国 追波
 各种笔刷+纹理 http://www.ifeiwu.com/resource/url/1013
