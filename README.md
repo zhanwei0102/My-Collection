@@ -184,3 +184,6 @@ Cutterman  http://www.cutterman.cn/zh
 3、iconpng，收录21372个图标，http://www.iconpng.com/ 
 4、easyicon，收录4万多个图标，http://www.easyicon.cn/ 
 5、softicon，对分类做的比较好，http://www.softicons.com/
+6、dryicons图标下载网站 http://dryicons.com/
+7、图标下载 http://www.aha-soft.com/index.htm
+8、图标下载 http://www.vistaicons.com/
