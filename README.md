@@ -177,8 +177,10 @@ Cutterman  http://www.cutterman.cn/zh
 像素大厨  http://www.fancynode.com.cn/pxcook
 
 
-1、iconfinder，http://www.iconfinder.com/，比较全面的ICON网站，有154600多个图标，内容相当丰富；
-2、findicons，http://findicons.com/，名字和前面的差不多，号称“全球所以的图片都在您指尖”，这个口号霸气。 
+1、iconfinder，http://www.iconfinder.com/
+，比较全面的ICON网站，有154600多个图标，内容相当丰富；
+2、findicons，http://findicons.com/
+，名字和前面的差不多，号称“全球所以的图片都在您指尖”，这个口号霸气。 
 3、iconpng，收录21372个图标，http://www.iconpng.com/ 
 4、easyicon，收录4万多个图标，http://www.easyicon.cn/ 
 5、softicon，对分类做的比较好，http://www.softicons.com/
