@@ -187,3 +187,33 @@ Cutterman  http://www.cutterman.cn/zh
 6、dryicons图标下载网站 http://dryicons.com/
 7、图标下载 http://www.aha-soft.com/index.htm
 8、图标下载 http://www.vistaicons.com/
+
+配色网站：http://nipponcolors.com
+配色：https://webgradients.com/
+免费PSD模板资源：http://designdeck.co.uk
+字体网站：https://www.typotheque.com
+免费插画音源网站：https://bedroomproducersblog.com
+免费高清高质图片：http://streetwill.co
+免费高清矢量素材：https://pixabay.com
+免费可商用的图片：https://gratisography.com
+免费可商用视频网站：http://www.lifeofvids.com
+最全面的PS笔刷纹理：https://www.toptal.com
+
+设计师综合网址推荐
+1.http://webstack.cc/cn/index.html
+2.http://hao.shejidaren.com/
+3.https://hao.uisdc.com/
+4.http://uicool123.com/
+5.https://www.ubuuk.com/
+设计辅助网站推荐
+图片压缩：https://tinypng.com/
+图片压缩网站：https://www.jpeg.io/
+转PDF：https://smallpdf.com/cn/compress-pdf
+图片压缩工具：https://imageoptim.com/mac（可离线压缩）
+故障艺术工具地址：photomosh.com
+炫光工具地址：codepen.io/tsuhre/full/BYbjyg
+镜像炫光工具地址：weavesilk.com
+渐变层工具地址：codepen.io/pissang/full/geajpX
+流动渐变层工具地址：codepen.io/Yakudoo/full/rJjOJx/
+体素工具地址：demo.marpi.pl/biomes
+图片体素化工具地址：pissang.github.io/voxelize-image
